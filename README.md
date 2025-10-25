@@ -47,7 +47,7 @@ Le PDF aborde les thèmes suivants :
 ## ⚠️ Note Importante
 
 Ce support est **strictement pédagogique** et a été créé dans un cadre académique.  
-Il ne encourage aucune activité illégale et vise uniquement à **informer et sensibiliser**.
+Il n'encourage aucune activité illégale et vise uniquement à **informer et sensibiliser**.
 
 ## 📬 Contact
 
